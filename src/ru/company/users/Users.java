@@ -20,6 +20,9 @@ public class Users {
     public int getAge(int age) {
         return age;
     }
+    public String getEmail(String e-mail) {
+        return e-mail;
+    }
 }
 
 
